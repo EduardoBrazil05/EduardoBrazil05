@@ -1,7 +1,6 @@
 # Eduardo Luiz Brasil Menezes
 
-## Hello, Devs!!
-## Bem vindo ao meu perfil GitHub 👋
+## Hello, Devs!! <br> <br> Bem vindo ao meu perfil GitHub 👋
 
 ## 👨‍💻 Sobre mim
 * Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e desenvolvimento de software.
