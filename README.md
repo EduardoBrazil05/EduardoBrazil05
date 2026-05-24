@@ -8,7 +8,7 @@
 * Busco oportunidades para aplicar meus conhecimentos em projetos reais, aprender continuamente e crescer profissionalmente na área de TI.
 
 ## Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=html,js,java,mysql,md,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,java,mysql,md,git,github,vscode)](https://skillicons.dev)
 
 ## Contatos:
 <div>
